@@ -1,4 +1,11 @@
 {
+    "1.0.1": {
+        "description": "- Correciones varias.",
+        "files": [
+            "chapter1/sprites/bg_rurus_shop.png",
+            "chapter1/strings.json"
+        ]
+    },
     "1.0.0": {
         "description": "- Lanzamiento oficial. Capítulo 1 traducido.",
         "files": []
