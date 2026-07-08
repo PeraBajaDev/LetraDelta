@@ -1,4 +1,17 @@
 {
+    "1.0.3": {
+        "description": "- Correcciones y preparación.",
+        "files": [
+            "chapter1/sprites/bg_alphysalley.png",
+            "chapter1/sprites/bg_building_diner.png",
+            "chapter1/sprites/bg_building_flowershop.png",
+            "chapter1/sprites/bg_building_police.png",
+            "chapter1/sprites/bg_building_store.png",
+            "chapter1/sprites/spr_castle_shop.png",
+            "chapter1/sprites/spr_fieldmuslogo.png",
+            "chapter1/strings.json"
+        ]
+    },
     "1.0.2": {
         "description": "- Correcciones menores.",
         "files": [
