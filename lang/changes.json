@@ -1,4 +1,17 @@
 {
+    "5.0.6": {
+        "description": "- Corrección de textos.\n- Arreglo de crash.",
+        "files": [
+            "chapter1/strings.json",
+            "chapter3/chapter_settings.json",
+            "chapter3/strings.json",
+            "chapter4/chapter_settings.json",
+            "chapter4/strings.json",
+            "chapter5/sprites/spr_castle_dojo_sign_love.png",
+            "chapter5/sprites/spr_fcastle_sandtrap_doorlabel.png",
+            "chapter5/strings.json"
+        ]
+    },
     "5.0.5": {
         "description": "- Correcciones varias.",
         "files": [
