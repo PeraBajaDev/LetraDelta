@@ -36,8 +36,8 @@
 
         ["TU", " BRILLAS", " MUCHO"]
     ],
-    
-    
+
+
     "jack_timings": [
         [0, 13, 27, 37],
         [0, 13, 27, 37],
@@ -81,10 +81,10 @@
             {
                 "header": ["-Apoyo-"],
                 "text_line": [
-                    "LinuxPa", 
-                    "Kío", 
-                    "Little Lute", 
-                    "yeye.ilust", 
+                    "LinuxPa",
+                    "Kío",
+                    "Little Lute",
+                    "yeye.ilust",
                     "Mako"
                 ],
                 "columns": 1
