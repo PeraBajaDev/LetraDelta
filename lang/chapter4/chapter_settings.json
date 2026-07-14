@@ -16,28 +16,28 @@
         }
 	},
     "jack_phrases": [
-        ["YOUR", " TAKING", " TOO", " LONG  "],
-        ["YOUR", " TAKING", " TOO", " LONG  "],
-        ["YOUR", " TAKING", " TOO", " LONG  "],
-        ["YOUR", "       ", "    ", " LONG  "],
-        ["  LO", "       ", "    ", " NG    "],
+        ["TÚ", " TÁS", " TARDANDO", " MUCHO  "],
+        ["TÚ", " TÁS", " TARDANDO", " MUCHO  "],
+        ["TÚ", " TÁS", " TARDANDO", " MUCHO  "],
+        ["TÚ", " TÁS", "     AN  ", "   CHO  "],
+        [" AN", "      ", "    ", " CHO    "],
 
-        ["YOUR", " TAKING", " TOO", " LONG  "],
-        ["    ", "     IS", "    ", "       "],
-        ["    ", " TAKING", " TOO", " LONG  "],
+        ["TÚ", " TÁS", " TARDANDO", " MUCHO  "],
+        ["    ", "     ESTÁ", "    ", "       "],
+        ["    ", " ", " TARDANDO", " MUCHO  "],
 
-        ["YOUR", " TAKING", " TOO", " TOO   "],
-        ["    ", "       ", " TOO", " TOO   "],
-        ["YOUR", "       ", " TOO", " TOO   "],
+        ["TÚ", " TÁS", " TÚ", " TÚ   "],
+        ["    ", "       ", " TÚ", " TÚ   "],
+        ["TÚ", "       ", " TÚ", " TÚ   "],
 
-        ["YOUR", " TAKING", " TOO", " LONG  "],
-        ["LONG", " TAKING", " TOO", " LONG  "],
+        ["TÚ", " TÁS", " TARDANDO", " MUCHO  "],
+        ["MUCHO", " TÁS", " TARDANDO", " MUCHO  "],
 
 
-        ["YOUR", " TOO", " BRIGHT"]
+        ["TÁS", "BRILLANDO", " MUCHO"]
     ],
-    
-    
+
+
     "jack_timings": [
         [0, 13, 27, 37],
         [0, 13, 27, 37],
@@ -81,10 +81,10 @@
             {
                 "header": ["-Apoyo-"],
                 "text_line": [
-                    "LinuxPa", 
-                    "Kío", 
-                    "Little Lute", 
-                    "yeye.ilust", 
+                    "LinuxPa",
+                    "Kío",
+                    "Little Lute",
+                    "yeye.ilust",
                     "Mako"
                 ],
                 "columns": 1
